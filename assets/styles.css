@@ -22,13 +22,3 @@ h1 {
 
 a {
 }
-
-img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    opacity: .03;
-    max-width: 100%;
-    z-index: -1;
-}
